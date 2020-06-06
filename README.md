@@ -1,0 +1,2 @@
+# Blog-database
+I used JavaScript, EJS, Node, espress, HTML5, and CSS to create a blog website with a MongoDB backend.  The users can create contents through compose route, and the updated website with user’s input persist all of the data the user added using Mongo database.  Truncate user’s input 100 words, click read more- directed to the post website using the ID of that particular post document.
